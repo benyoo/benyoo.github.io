@@ -4,6 +4,7 @@ title: Reflections
 subtitle: a life update
 date: 2021-07-07 14:43:30 -0400
 background: /img/posts/04.jpg
+published: false
 ---
 
 Several reflections I've had over the last few weeks:

@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="container">
+    <header>
+        <h1>{{ site.author }}</h1>
+        <div class="tagline">{{ page.description | default: site.description }}</div>
+    </header>
+
+    {{ content }}
+</div>
